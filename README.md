@@ -58,6 +58,8 @@ A comprehensive security audit has been conducted on the smart contracts. Please
 
 **[Security Audit PDF Report](./Kuant.ai_202511251702.pdf)** - Detailed audit documentation
 
+**[Official Beosin Audit Report](https://beosin.com/audits/Kuant.ai_202511251702.pdf)** - Official audit published by Beosin
+
 **Current Security Status:** ⚠️ **NOT PRODUCTION READY**
 
 **Critical Issues Identified:** 10 Critical, 5 High, 4 Medium, 3 Low
