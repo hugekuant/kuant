@@ -175,7 +175,7 @@ npx hardhat run scripts/deploy.js --network bsc
 
 | Network | Contract | Address |
 |---------|----------|---------|
-| BSC Mainnet | FuturesMarginPoolClassics | TBD |
+| BSC Mainnet | FuturesMarginPoolClassics | [`0xf6ae4e36a14da4be1988911d5e03544dc35dff3a`](https://bscscan.com/address/0xf6ae4e36a14da4be1988911d5e03544dc35dff3a) |
 | BSC Testnet | FuturesMarginPoolClassics | TBD |
 
 ## Development
